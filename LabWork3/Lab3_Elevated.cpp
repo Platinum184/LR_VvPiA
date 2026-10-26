@@ -57,7 +57,7 @@ int main() // Объявляем главную функцию.
 		std::cout << "Category: Teenager" << std::endl;
 	} 
 	else if (age <= 64) {
-		std::cout << "C" << std::endl;
+		std::cout << "Category: Adult" << std::endl;
 	}
 	else {
 		std::cout << "Category: Elderly" << std::endl;
